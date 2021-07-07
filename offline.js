@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1625690424,
+	"version": 1625695779,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -22,6 +22,8 @@
 		"images/tiledbackground2.png",
 		"images/yoasobi_vibing-sheet0.png",
 		"images/leftside-sheet0.png",
+		"images/popcat-sheet0.png",
+		"images/popcat-sheet1.png",
 		"media/kimetsu-no-yaiba--kamado-tanjirou-no-uta-1.m4a",
 		"media/kimetsu-no-yaiba--kamado-tanjirou-no-uta-1.ogg",
 		"media/kimetsu-no-yaiba--gurenge.m4a",
