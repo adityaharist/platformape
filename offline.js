@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1625677946,
+	"version": 1625679011,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,6 +17,7 @@
 		"images/shinobu-sheet0.png",
 		"images/sprite2-sheet0.png",
 		"images/sprite3-sheet0.png",
+		"images/playertanjiro-sheet0.png",
 		"media/kimetsu-no-yaiba--kamado-tanjirou-no-uta-1.m4a",
 		"media/kimetsu-no-yaiba--kamado-tanjirou-no-uta-1.ogg",
 		"media/kimetsu-no-yaiba--gurenge.m4a",
