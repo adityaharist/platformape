@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1625685093,
+	"version": 1625688702,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -21,12 +21,15 @@
 		"images/tiledbackground.png",
 		"images/tiledbackground2.png",
 		"images/yoasobi_vibing-sheet0.png",
+		"images/leftside-sheet0.png",
 		"media/kimetsu-no-yaiba--kamado-tanjirou-no-uta-1.m4a",
 		"media/kimetsu-no-yaiba--kamado-tanjirou-no-uta-1.ogg",
 		"media/kimetsu-no-yaiba--gurenge.m4a",
 		"media/kimetsu-no-yaiba--gurenge.ogg",
 		"media/halzion-midi.m4a",
 		"media/halzion-midi.ogg",
+		"media/demon-slayer-kimetsu-no-yaiba-op-gurenge-_8-bit-vrc6_.m4a",
+		"media/demon-slayer-kimetsu-no-yaiba-op-gurenge-_8-bit-vrc6_.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
