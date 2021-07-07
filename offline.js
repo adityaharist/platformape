@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1625665867,
+	"version": 1625669205,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -7,9 +7,9 @@
 		"offlineClient.js",
 		"images/tilemap.png",
 		"images/playerinosuke-sheet0.png",
-		"images/sprite-sheet0.png",
-		"images/sprite-sheet1.png",
-		"images/sprite-sheet2.png",
+		"images/playerzenitsu-sheet0.png",
+		"images/playerzenitsu-sheet1.png",
+		"images/playerzenitsu-sheet2.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
