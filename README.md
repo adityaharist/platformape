@@ -1,5 +1,5 @@
 # platformape
-Just fun of gaming    
+Casual game for fun   
     
 Just setting up to construct game engine. for first time    
     
