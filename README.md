@@ -11,3 +11,6 @@ zamzar.com | audio converter midi to wav
 github pages | server    
 instagram.com | marketing socmed    
 leanbox | designer inspiration    
+youtube channel | pixel art inspiration    
+
+all of you, who plays this shit game        
