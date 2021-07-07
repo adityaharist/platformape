@@ -12,5 +12,6 @@ github pages | server
 instagram.com | marketing socmed    
 leanbox | designer inspiration    
 youtube channel | pixel art inspiration    
+part music shige_masa_chida    
 
 all of you, who plays this shit game        
